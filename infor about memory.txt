@@ -1,4 +1,4 @@
 valid: 1bits
 tag: number of address: 32bits
 
-set: set, index | 12bits, 2bits
+set: set, index | 12bits, 2bits, index not include in address
